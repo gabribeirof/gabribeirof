@@ -10,7 +10,7 @@ I'm currently moving beyond basic syntax to understand the full data lifecycle. 
 
 ### 🛠️ Academic Background & Tech Stack
 Currently deep-diving into different programming paradigms and computer science fundamentals:
-- **Languages:** Java (OOP), Python (Functional/Scripting), and C (Imperative/Procedural).
+- **Languages:** Java (OOP), Python (Functional), and C (Imperative).
 - **Data Design:** Management and modeling with **PostgreSQL**.
 - **Foundations:** Algorithms, Data Structures, and Complexity Analysis ($O(n)$).
 
