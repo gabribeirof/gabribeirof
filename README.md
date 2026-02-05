@@ -1,6 +1,6 @@
 # Hi, I'm Gabrielle Ribeiro! 👋
 
-I'm a 2nd-year Computer Science student at **UNIUPO** (Italy). While I'm building a solid foundation in Software Engineering, my true interest lies in **Data Science & Engineering** — specifically in the challenge of turning raw data into meaningful information.
+I'm a 2nd-year Computer Science student at **UNIUPO** (Italy). I'm building a solid foundation in Software Engineering, with interest lies in **Data Science & Engineering** — specifically in the challenge of turning raw data into meaningful information.
 
 ---
 
