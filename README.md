@@ -1,6 +1,6 @@
 # Hi, I'm Gabrielle Ribeiro! 
 
-I'm a 2nd-year Computer Science student at **UNIUPO** (Italy). I'm building a solid foundation in Software Engineering, with interest in **Data Science & Engineering**.
+I'm a 3rd / last -year Computer Science student at **UNIUPO** - Italy. I'm building a solid foundation in Software Engineering, with interest in **Data Science & Engineering**.
 ---
 
 ### Exploring Data & Engineering
